@@ -1,0 +1,27 @@
+main {
+    border: 1px solid red ;
+    height: 600px;
+    width: 1100px;
+    margin: auto;
+
+}
+header {
+     
+    border: 1px solid blue;
+    height: 100px;
+}
+
+nav{
+    border: 1px solid green;
+    height: 80px;
+
+}
+section {
+    border: 1px solid black;
+    height: 380;
+
+}
+footer {
+    border: 1px solid pink;
+    height: 60px;
+}
