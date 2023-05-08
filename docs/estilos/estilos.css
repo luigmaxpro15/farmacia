@@ -9,6 +9,8 @@ header {
      
     border: 1px solid blue;
     height: 100px;
+    width: 1100;
+    text-align: center;
 }
 
 nav{
@@ -48,4 +50,8 @@ ul li{
     width: 100px;
     display: inline-block;
     margin-right: 10px;
+    font-family: 'Viga', sans-serif;
+}
+header img{
+    width:  100px;
 }
