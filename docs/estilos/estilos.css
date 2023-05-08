@@ -1,0 +1,57 @@
+main {
+    border: 1px solid red ;
+    height: 630px;
+    width: 1100px;
+    margin: auto;
+
+}
+header {
+     
+    border: 1px solid blue;
+    height: 100px;
+    width: 1100;
+    text-align: center;
+}
+
+nav{
+    border: 1px solid green;
+    height: 80px;
+    margin: 5px 0px 5px 0px
+
+}
+section {
+    border: 1px solid black;
+    height: 363px;
+    padding: 5px;
+    
+}
+footer {
+    border: 1px solid pink;
+    height: 90px;
+    clear: both;
+}
+aside{
+    border: 1px solid orangered;
+    display: 50px;
+    height:  335px;
+    width: 500px;
+    float: left;
+}
+article{
+    border: 1px solid brown;
+    height: 110px;
+    width: 570px;
+    float: right;
+
+}
+
+ul li{
+    border: 1px solid blueviolet;
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    font-family: 'Viga', sans-serif;
+}
+header img{
+    width:  100px;
+}
