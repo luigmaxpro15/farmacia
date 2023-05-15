@@ -1,0 +1,12 @@
+#contenedor{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+}
+.item{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    
+
+}
